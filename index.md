@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 胡琦的个人博客
 
 You can use the [editor on GitHub](https://github.com/syx126/syx126.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
