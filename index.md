@@ -1,37 +1,39 @@
-## 胡琦的个人博客
+ 胡琦的个人博客
 
-You can use the [editor on GitHub](https://github.com/syx126/syx126.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+你可以使用编辑在GitHub上在Markdown文件中维护和预览你的网站内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+只要你提交到这个库，GitHub Pages就会运行Jekyll从Markdown文件中的内容重新构建站点中的页面。
 
-### Markdown
+减价
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级的、易于使用的语法，用于样式化您的写作。它包括以下约定
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
+
 - List
 
 1. Numbered
+
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详情，请参阅GitHub味减价.
 
-### Jekyll Themes
+哲基尔主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syx126/syx126.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的Pages站点将使用您在您的页面中选择的Jekyll主题的布局和样式存储库设置． 这个主题的名字保存在Jekyll中_config.yml配置文件。
 
-### Support or Contact
+支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+佩奇有问题吗?看看我们文档或联络支持我们会帮你解决的。
